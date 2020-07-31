@@ -41,5 +41,5 @@ with open(output_file, 'w') as file:
     file.write(data)
 
 ## Cleanup
-if os.path.isfile:
-    os.remove(input_file)
+#if os.path.isfile:
+#    os.remove(input_file)
